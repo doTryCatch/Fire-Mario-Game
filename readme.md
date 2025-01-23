@@ -4,6 +4,13 @@ Fire Mario Game is a 2D platformer game inspired by the classic Mario series, bu
 
 ---
 
+## Video Demo
+
+### Watch the Gameplay in Action
+https://github.com/user-attachments/assets/36d85c7b-a946-4d69-986f-6929d7deb790
+
+---
+
 ## Features
 
 ### 1. **Fire Bombarding Mechanics**
@@ -70,21 +77,6 @@ Fire Mario Game is a 2D platformer game inspired by the classic Mario series, bu
    ```bash
    python main.py
    ```
-
----
-
-## Screenshots
-
-### Gameplay Preview
-
-![Fire Mario Game Screenshot](./assets/screenshot.png)
-
----
-
-## Video Demo
-
-### Watch the Gameplay in Action
-https://github.com/user-attachments/assets/36d85c7b-a946-4d69-986f-6929d7deb790
 
 ---
 
