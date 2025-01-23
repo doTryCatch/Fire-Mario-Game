@@ -84,11 +84,7 @@ Fire Mario Game is a 2D platformer game inspired by the classic Mario series, bu
 ## Video Demo
 
 ### Watch the Gameplay in Action
-
-<video width="640" height="360" controls>
-  <source src="./demo-video/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/36d85c7b-a946-4d69-986f-6929d7deb790
 
 ---
 
